@@ -3,6 +3,12 @@
   "compileOnSave": false,
   "compilerOptions": {
     "baseUrl": "./",
+    "paths": {
+      "cnpj-cpf-validator": [
+        "dist/cnpj-cpf-validator/cnpj-cpf-validator",
+        "dist/cnpj-cpf-validator"
+      ]
+    },
     "outDir": "./dist/out-tsc",
     "sourceMap": true,
     "declaration": false,
