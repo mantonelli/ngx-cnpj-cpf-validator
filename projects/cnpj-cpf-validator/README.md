@@ -1,11 +1,11 @@
-## cnpj-cpf-validator
+## ngx-cnpj-cpf-validator
 
 Componente para validação de CPF e CNPJ em aplicações Angular (10+).
 
 ### Instalação
 
 ```shell
-npm install cnpj-cpf-validator --save
+npm install ngx-cnpj-cpf-validator --save
 ```
 
 ### Utilização
