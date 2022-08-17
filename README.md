@@ -128,3 +128,5 @@ export class AppComponent implements OnInit {
 - validaCNPJ(value: string): boolean
 - CnpjCpfValidator(tipoPessoa: TipoPessoa): AsyncValidatorFn
 ```
+
+![https://img.shields.io/badge/BTC-bc1qt68v0vxuz85jvt6qrhhm3x8hz7hj3axy5dr6xz-blue](https://img.shields.io/badge/BTC-bc1qt68v0vxuz85jvt6qrhhm3x8hz7hj3axy5dr6xz-blue)
